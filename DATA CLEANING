@@ -1,0 +1,23 @@
+# Data Cleaning
+
+## Overview
+Data cleaning is a critical first step in any data science or AI project. Clean data ensures accurate analysis and reliable model performance.
+
+## Key Concepts
+- Handling missing values (drop, fill, interpolate)
+- Removing duplicates
+- Fixing inconsistent formatting
+- Detecting and handling outliers
+
+## Techniques Used
+- Pandas functions such as:
+  - dropna()
+  - fillna()
+  - drop_duplicates()
+- Data type conversion for consistency
+
+## Why It Matters
+Poor data quality leads to inaccurate models and unreliable insights. Clean data improves model performance and decision-making.
+
+## Real-World Application
+Used in preprocessing pipelines before training machine learning models to ensure reliable predictions.
