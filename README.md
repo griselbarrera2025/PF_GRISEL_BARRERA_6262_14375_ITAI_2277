@@ -88,5 +88,5 @@ I am interested in opportunities in:
 ---
 
 ## 📫 Contact
-Email: your_email_here  
-GitHub: your_link_here
+Email:   griselbarrera2024@yahoo.com
+GitHub:  github.com/griselbarrera2025/PF_GRISEL_BARRERA_6262_14375_2277
