@@ -1,0 +1,27 @@
+# Machine Learning Basics
+
+## Types of Machine Learning
+- Supervised Learning (labeled data)
+- Unsupervised Learning (pattern discovery)
+- Reinforcement Learning (decision-based learning)
+
+## Common Models
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- K-Means Clustering
+
+## Model Evaluation
+- Accuracy
+- Precision & Recall
+- Confusion Matrix
+
+## Workflow
+1. Data collection
+2. Data preprocessing
+3. Model training
+4. Evaluation
+5. Optimization
+
+## Key Takeaway
+Machine learning is about finding patterns in data and making predictions based on those patterns.
