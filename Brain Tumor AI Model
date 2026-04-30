@@ -1,0 +1,23 @@
+# Brain Tumor AI Model
+
+## Overview
+This project focuses on building a machine learning model to detect brain tumors from data inputs. The goal is to demonstrate how AI can support healthcare diagnostics.
+
+## What I Did
+- Cleaned and preprocessed dataset
+- Applied feature engineering techniques
+- Trained machine learning models
+- Evaluated performance using metrics
+
+## Tools Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+
+## Results
+The model successfully identified patterns in the dataset and demonstrated the potential of AI in medical analysis.
+
+## Key Takeaways
+- Importance of clean data
+- Model evaluation is critical
+- Real-world applications require ethical consideration
