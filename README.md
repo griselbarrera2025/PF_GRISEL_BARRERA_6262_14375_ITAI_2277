@@ -1,26 +1,4 @@
-# PF_GRISEL_BARRERA_6262_14375_ITAI_2277
-Skills Portfolio 
-📁 grisel-barrera-ai-robotics-portfolio
- ┣ 📁 projects
- ┃ ┣ 📁 brain-tumor-ai-model
- ┃ ┣ 📁 video-game-sales-ml
- ┃ ┣ 📁 data-preprocessing-pipeline
- ┃ ┗ 📁 robotics-ur3e-project
- ┣ 📁 skills
- ┃ ┣ sql-database-design.md
- ┃ ┣ cybersecurity-basics.md
- ┃ ┣ linux-essentials.md
- ┃ ┗ nlp-overview.md
- ┣ 📁 notes
- ┃ ┣ feature-engineering.md
- ┃ ┣ machine-learning-basics.md
- ┃ ┗ data-cleaning.md
- ┣ 📁 resources
- ┃ ┗ useful-links.md
- ┗ README.md
-
-
- # Grisel Barrera | AI & Robotics Portfolio
+# Grisel Barrera | AI & Robotics Portfolio
 
 ## About Me
 I am an AI and Robotics graduate with hands-on experience in machine learning, data science, robotics systems, and technical problem-solving. My work focuses on transforming raw data into actionable insights and building intelligent systems that solve real-world problems.
@@ -89,4 +67,4 @@ I am interested in opportunities in:
 
 ## 📫 Contact
 Email:   griselbarrera2024@yahoo.com
-GitHub:  github.com/griselbarrera2025/PF_GRISEL_BARRERA_6262_14375_2277
+GitHub:  github.com/griselbarrera2025
