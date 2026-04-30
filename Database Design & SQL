@@ -1,0 +1,23 @@
+# Database Design & SQL
+
+## Core Concepts
+- Entities and attributes
+- Primary and foreign keys
+- Relationships (1:1, 1:M, M:M)
+- Normalization (1NF, 2NF, 3NF)
+
+## SQL Skills
+- SELECT, WHERE, JOIN, GROUP BY
+- Data filtering and aggregation
+
+## ERD (Entity Relationship Diagram)
+Used to visually design database structure.
+
+## Why It Matters
+Good database design ensures:
+- Data integrity
+- Reduced redundancy
+- Efficient queries
+
+## Real-World Use
+Used in business systems, applications, and data storage solutions.
