@@ -14,7 +14,7 @@
 
 I am an **Artificial Intelligence & Robotics professional in training** with hands-on experience developing machine learning models, working with data and databases, programming robotics systems, and applying technical problem-solving to real-world challenges.
 
-I am currently pursuing an **Applied AI & Robotics education at Houston Community College**, building practical experience across artificial intelligence, machine learning, data analytics, robotics, databases, cybersecurity, and software development.
+I am currently pursuing an **Applied AI & Robotics education at Houston City College**, building practical experience across artificial intelligence, machine learning, data analytics, robotics, databases, cybersecurity, and software development.
 
 My technical background is complemented by professional experience in **business development, customer service, sales, technical advising, troubleshooting, and working with business systems**. This combination allows me to approach technology from both a technical and business perspective.
 
@@ -287,8 +287,7 @@ Developed foundational cybersecurity and systems knowledge as part of my technic
 ## DISCOUNT INSPECTION & BRAKES
 
 ### Business Development & Service Advisor
-
-**March 2025 – Present | Houston, Texas**
+Houston, Texas**
 
 * Serve as a primary point of contact between customers, technicians, and management.
 * Use business and service systems to document customer information, vehicle concerns, inspections, estimates, and repair orders.
@@ -303,8 +302,7 @@ Developed foundational cybersecurity and systems knowledge as part of my technic
 ## PEARLAND AUTOMOTIVE
 
 ### Service Advisor
-
-**June 2025 – August 2025 | Pearland, Texas**
+Pearland, Texas**
 
 * Served as the communication link between customers and automotive technicians.
 * Conducted and reviewed 21-point vehicle inspections.
@@ -336,7 +334,7 @@ Current technical education focused on artificial intelligence, machine learning
 
 ### Associate of Arts – Liberal Arts
 
-**2016**
+**2015**
 
 ---
 
@@ -371,6 +369,8 @@ I want to contribute to technology solutions that improve **business operations,
 ---
 
 # PORTFOLIO & CONTACT
+**Mobile:**
+832-939-0800
 
 **GitHub:**
 github.com/griselbarrera2025
